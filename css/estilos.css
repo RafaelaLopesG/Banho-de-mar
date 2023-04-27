@@ -1,0 +1,207 @@
+#cabecalho {background: linear-gradient(180deg, #28D3EB 0%, rgba(53, 149, 219, 0.51) 100%);
+            position: absolute;
+            width: 1510px;
+            height: 152px;
+            left: 8px;
+            top: 0px;
+            color: #FFFFFF;}
+
+.h1 {position: absolute;
+     font-family: 'Kaushan Script';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 90px;
+     color: #FFF4F4;
+     left: 460px;
+     top: -30px;}
+   
+.icone {position: absolute;
+        left: 380;
+        right: 80.28%;
+        top: 30px;}
+
+.cabecalho2 {position: absolute;
+             width: 1510px;
+             height: 34px;
+             left: 8px;
+             top: 150px;
+             background: #C6E1F5;}
+
+.p1 {position: absolute;
+     height: 34px;
+     left: 450px;
+     top: -15px;
+     font-family: 'Roboto';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 20px;
+     line-height: 23px;
+     color: #736E6E;}
+
+.img1 {position: absolute;
+       left: 8px;
+       top: 203px;}
+
+.categoria {box-sizing: border-box;
+            position: absolute;
+            width: 704px;
+            height: 63px;
+            left: 368px;
+            top: 705px;
+            background: rgba(46, 179, 227, 0.55);
+            border: 1px solid #000000;}
+
+.h2 {position: absolute;
+     width: 355px;
+     height: 50px;
+     left: 230px;
+     top: -37px;
+     font-family: 'Kaushan Script';
+     font-style: normal;
+     font-weight: 400;
+     font-size: 45px;
+     line-height: 65px;
+     color: #FFFFFF;}
+
+.anel {position: absolute;
+       width: 230px;
+       height: 175px;
+       left: 8px;
+       top: 810px;}
+
+.colar {position: absolute;
+        width: 230px;
+        height: 175px;
+        left: 260px;
+        top: 810px;}
+
+.pulseira {position: absolute;
+           width: 230px;
+           height: 175px;
+           left: 513px;
+           top: 810px;}
+
+.brinco {position: absolute;
+         width: 230px;
+         height: 175px;
+         left: 766px;
+         top: 810px;}
+
+.tornozeleira {position: absolute;
+               width: 230px;
+               height: 175px;
+               left: 1020px;
+               top: 810px;}
+
+.piercing {position: absolute;
+           width: 230px;
+           height: 175px;
+           left: 1275px;
+           top: 810px;}
+
+.seta {position: absolute;
+       width: 48px;
+       height: 48px;
+       left: 8px;
+       top: 760px;}
+
+.b1 {position: absolute;
+     width: 222px;
+     height: 35px;
+     left: 10px;
+     top: 995px;
+     background: rgba(46, 179, 227, 0.55);
+     font-family: 'Roboto';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 24px;
+     line-height: 28px;
+     color: #736E6E;}
+
+.b2 {position: absolute;
+     width: 222px;
+     height: 35px;
+     left: 265px;
+     top: 995px;
+     background: rgba(46, 179, 227, 0.55);
+     font-family: 'Roboto';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 24px;
+     line-height: 28px;
+     color: #736E6E;}
+
+.b3 {position: absolute;
+     width: 222px;
+     height: 35px;
+     left: 516px;
+     top: 995px;
+     background: rgba(46, 179, 227, 0.55);
+     font-family: 'Roboto';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 24px;
+     line-height: 28px;
+     color: #736E6E;}
+
+.b4 {position: absolute;
+     width: 222px;
+     height: 35px;
+     left: 770px;
+     top: 995px;
+     background: rgba(46, 179, 227, 0.55);
+     font-family: 'Roboto';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 24px;
+     line-height: 28px;
+     color: #736E6E;}
+
+.b5 {position: absolute;
+     width: 222px;
+     height: 35px;
+     left: 1025px;
+     top: 995px;
+     background: rgba(46, 179, 227, 0.55);
+     font-family: 'Roboto';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 24px;
+     line-height: 28px;
+     color: #736E6E;}
+
+.b6 {position: absolute;
+     width: 222px;
+     height: 35px;
+     left: 1278px;
+     top: 995px;
+     background: rgba(46, 179, 227, 0.55);
+     font-family: 'Roboto';
+     font-style: normal;
+     font-weight: 700;
+     font-size: 24px;
+     line-height: 28px;
+     color: #736E6E;}
+
+.form {box-sizing: border-box;
+       position: absolute;
+       width: 305px;
+       height: 41px;
+       left: 1104px;
+       top: 56px;
+       background: #FFFFFF;
+       border: 1px solid #000000;}
+
+input {box-sizing: border-box;
+       position: absolute;
+       width: 305px;
+       height: 41px;
+       left: -1px;
+       top: -1px;
+       background: #FFFFFF;
+       border: 1px solid #000000;}
+
+.lupa {position: absolute;
+       height: 41px;
+       left: 260px;
+       top: -1px;}
